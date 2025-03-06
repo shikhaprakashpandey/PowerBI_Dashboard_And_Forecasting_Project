@@ -43,8 +43,4 @@ The dataset includes the following key columns:
 - Predictive models to estimate future sales performance.
 - A user-friendly Excel dashboard for data-driven decision-making.
 
-## Contribution
-Feel free to contribute by improving data analysis techniques, adding new forecasting models, or enhancing visualizations. Fork the repository and submit pull requests.
 
-## License
-This project is open-source and available for use and modification under the MIT License.
