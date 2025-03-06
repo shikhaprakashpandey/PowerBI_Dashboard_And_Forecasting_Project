@@ -2,7 +2,7 @@
 
 
 
-![Dashboard Preview](images/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 # Store Sales Forecasting in Excel
 
