@@ -11,7 +11,6 @@ This project aims to forecast store sales using data analysis and visualization 
 
 ## Tools Used
 - **Excel**: Data cleaning, preprocessing, and exploratory analysis
-- **SQL**: Data transformation, querying, and aggregation
 - **Power BI**: Data visualization and forecasting dashboard
 
 ## Dataset
@@ -26,24 +25,18 @@ The dataset includes:
    - Handle missing values (e.g., Returns column)
    - Correct date formats
    - Remove unnecessary columns (e.g., `ind1`, `ind2` with all null values)
-   
-2. **SQL Processing**:
-   - Import data into SQL database
-   - Aggregate sales by region, product category, and customer segment
-   - Compute profit margins and return rates
-   
-3. **Excel Analysis**:
+      
+2. **Excel Analysis**:
    - Identify sales trends using pivot tables
    - Calculate moving averages for forecasting
    
-4. **Power BI Dashboard**:
+3. **Power BI Dashboard**:
    - Create interactive sales visualizations
    - Forecast future sales trends using Power BI forecasting tools
    - Display key metrics such as total revenue, profit, and high-return products
 
 ## Installation & Usage
-1. Load the dataset into SQL for querying and transformation.
-2. Use Excel for initial exploration and trend identification.
+1. Use Excel for initial exploration and trend identification.
 3. Import cleaned data into Power BI for visualization and forecasting.
 
 ## Future Improvements
